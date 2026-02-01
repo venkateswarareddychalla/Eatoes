@@ -282,7 +282,7 @@ NODE_ENV=production
 
 **Frontend `.env`**
 ```env
-VITE_API_URL=https://your-backend-url.com/api
+VITE_API_URL=https://eatoes-backend-2j1t.onrender.com/api
 ```
 
 ### Build Commands

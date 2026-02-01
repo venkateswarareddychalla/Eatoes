@@ -4,7 +4,7 @@ export const AppContext = createContext();
 
 export const AppContextProvider = ({ children }) => {
 
-    const API_URL = 'http://localhost:3000/api';
+    const API_URL = 'https://eatoes-backend-2j1t.onrender.com/api';
 
     const value = {
         API_URL
